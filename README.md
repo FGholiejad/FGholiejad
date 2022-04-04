@@ -13,7 +13,7 @@
 -Google Cloud Platform
 
 ## Get in Touch:
-- [📧](mailto:f.gholinezhad@gmail.com) 
+- [![image](https://user-images.githubusercontent.com/24865728/161512059-a6746f11-06ed-4585-9000-f0bdaec464c7.png)](mailto:f.gholinezhad@gmail.com) 
 -[![image](https://user-images.githubusercontent.com/24865728/161511667-b80eab0c-bfac-4d03-a561-90fe86f1f081.png)
 ](https://www.linkedin.com/in/fatemeh-gholinezhad-9a1214a2/)
 
